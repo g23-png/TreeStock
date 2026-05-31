@@ -39,11 +39,11 @@ java Main
 
 ### Inventario Ordenado
 
-![Inventario](Insertar captura)
+![Inventario](https://github.com/g23-png/TreeStock/blob/main/Inventario.png)
 
 ### Búsqueda de Producto
 
-![Busqueda](Insertar captura)
+![Busqueda](https://github.com/g23-png/TreeStock/blob/main/Busqueda.png)
 
 Pegar aquí el enlace del video.
 
