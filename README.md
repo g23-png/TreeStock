@@ -31,7 +31,7 @@ java Main
 
 ### Menú Principal
 
-(Insertar captura)
+(Menu.png)
 
 ### Registro de Productos
 
