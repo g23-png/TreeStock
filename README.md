@@ -31,7 +31,7 @@ java Main
 
 ### Menú Principal
 
-(Menu.png)
+[(Menu.png)](https://github.com/g23-png/TreeStock/blob/main/Menu.png)
 
 ### Registro de Productos
 
