@@ -35,7 +35,7 @@ java Main
 
 ### Registro de Productos
 
-![Productos](https://github.com/g23-png/TreeStock/blob/main/Registro.png))
+![Productos](https://github.com/g23-png/TreeStock/blob/main/Registro.png)
 
 ### Inventario Ordenado
 
