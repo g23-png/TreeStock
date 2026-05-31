@@ -35,18 +35,18 @@ java Main
 
 ### Registro de Productos
 
-(Insertar captura)
+![Productos](https://github.com/g23-png/TreeStock/blob/main/Registro.png))
 
 ### Inventario Ordenado
 
-(Insertar captura)
+![Inventario](Insertar captura)
 
 ### Búsqueda de Producto
 
-(Insertar captura)
+![Busqueda](Insertar captura)
 
 Pegar aquí el enlace del video.
 
-## Autor(es)
+## Autor
 
 Daniel Gonzalez Ospina
